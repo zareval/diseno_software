@@ -1,0 +1,9 @@
+package AplicacionCirculo.Pkg;
+
+public class AplicacionCirculo {
+
+	public AplicacionCirculo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

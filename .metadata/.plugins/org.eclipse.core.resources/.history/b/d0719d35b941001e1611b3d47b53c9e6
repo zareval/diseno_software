@@ -1,0 +1,20 @@
+package AplicacionCirculo.Pkg;
+
+public class Circulo {
+	
+	//Ejercicio con el profesor.
+	
+	private double radio;
+
+	public Circulo() {
+		// TODO Auto-generated constructor stub
+		radio = 1.0;
+	}
+
+	public Circulo(double radio) {
+		super();
+		this.radio = radio;
+	}
+	
+	
+}

@@ -1,0 +1,38 @@
+package ejercicioGatoPkg;
+
+public class EjercicioGato {
+	
+	//visibilidad tipodato nombre = valor
+	private String nombre;
+	private String genero;
+	private int edad;
+	private String color;
+	private float peso;
+	
+	public EjercicioGato() {
+		// TODO Auto-generated constructor stub
+		
+	}
+	
+	//visibilidad tiporetorno nombre (parametros)
+	public void respirar() {
+		System.out.println("Estoy Respirando");
+	}
+	
+	public void comer(String comida) {
+		System.out.println("Estoy comiendo " + comida);
+	}
+	
+	public void correr(String destino) {
+		System.out.println("Estoy corriendo " + destino);
+	}
+	
+	public void dormir(int horas) {
+		System.out.println("Estoy durmiendo " + horas);
+	}
+	
+	public void maullar() {
+		System.out.println("Meow");
+	}
+
+}

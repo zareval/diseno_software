@@ -1,0 +1,11 @@
+package AplicacionCirculo.Pkg;
+
+public class Circulo {
+	
+	//Ejercicio con el profesor.
+
+	public Circulo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

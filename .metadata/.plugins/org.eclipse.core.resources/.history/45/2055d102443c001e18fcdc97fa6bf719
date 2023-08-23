@@ -1,0 +1,13 @@
+package ejercicioGatoPkg;
+
+public class EjercicioGato {
+	public EjercicioGato() {
+		
+	}
+	
+	public static void main(String[]args) {
+		EjercicioGato miGato=new Gato();
+		miGato.maullar();
+		miGato.dormir(2);
+	}
+}

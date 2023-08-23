@@ -1,0 +1,11 @@
+package ejercicioGatoPkg;
+
+public class EjercicioGato {
+	public EjercicioGato() {
+		
+	}
+	
+	public static void main(String[]args) {
+		
+	}
+}
